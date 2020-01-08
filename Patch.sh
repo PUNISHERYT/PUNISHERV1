@@ -2,7 +2,7 @@
 toilet -f mini -F gay 'PUNISHER'
 
 
-toilet -f wideterm -F border:gay -t 'Creater @Official_ShouT' | lolcat -a -d 1
+toilet -f wideterm -F border:gay -t 'Creator @Official_ShouT' | lolcat -a -d 1
 
 echo ""
 
