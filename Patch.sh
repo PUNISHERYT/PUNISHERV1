@@ -96,9 +96,9 @@ echo ""
 
 toilet -f term -F border:gay -t 'Broght to you by : Telegram : t.me/PUNISHER_YT'
 
-toilet -f wideterm -F border -t ' Creator : @Official_ShouT ' | lolcat -a -d 5
+toilet -f wideterm -F border -t ' Creator : @PUNISHER_YT ' | lolcat -a -d 5
 
-toilet -f term -F border:gay -t 'Also support : @PUNISHER_YT' | lolcat -a -d 1
+toilet -f term -F border:gay -t 'PROJECT BY : @Official_ShouT' | lolcat -a -d 1
 
 toilet -f term -F gay '#Launching PUBGM'
 
