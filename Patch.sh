@@ -88,7 +88,7 @@ toilet -f term -F gay '3-> JOIN @PUNISHER_YT on Telegram'
 
 toilet -f term -F gay '4-> Only GG + Game'
 
-toilet -f term -F metal:border 'If you see any error during execution, Contact ADMIN ASAP!'
+toilet -f term -F metal:border 'If you see any error , Contact ADMIN ASAP!'
 
 echo ""
 
