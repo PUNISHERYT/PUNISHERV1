@@ -1,7 +1,8 @@
 
-toilet -f mono12 -F gay -t 'PUNISHER' | lolcat -a -d 1
+toilet -f mini -F gay 'PUNISHER'
 
-toilet -f wideterm -F border:gay -t '    Creater @Official_ShouT    ' | lolcat -a -d 1
+
+toilet -f wideterm -F border:gay -t 'Creater @Official_ShouT' | lolcat -a -d 1
 
 echo ""
 
@@ -23,54 +24,54 @@ echo""
 
 toilet -f term -F metal " PATCHING IN PROGRESS WAIT :-) "
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libabase.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libabase.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libBugly.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libBugly.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libcubehawk.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libcubehawk.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libgcloud.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libgcloud.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libGCloudVoice.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libGCloudVoice.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libgnustl_shared.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libgnustl_shared.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libhelpshiftlistener.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libhelpshiftlistener.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libigshare.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libigshare.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libIMSDK.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libIMSDK.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/liblbs.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/liblbs.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libTDataMaster.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libTDataMaster.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libtersafe.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libtersafe.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libtprt.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libtprt.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libUE4.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libUE4.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libzip.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libzip.so /data/data/com.tencent.ig/lib/
 
-tsudo cp /data/data/com.termux/files/home/TeamRoarHacks/res/lib/libzlib.so /data/data/com.tencent.ig/lib/
+tsudo cp /data/data/com.termux/files/home/PUNISHERV1/res/lib/libzlib.so /data/data/com.tencent.ig/lib/
 
-chmod -R 755 /data/data/com.tencent.ig/lib/libabase.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libBugly.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libcubehawk.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libgcloud.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libGCloudVoice.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libgnustl_shared.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libhelpshiftlistener.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libigshare.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libIMSDK.so
-chmod -R 755 /data/data/com.tencent.ig/lib/liblbs.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libTDataMaster.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libtprt.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libUE4.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libzip.so
-chmod -R 755 /data/data/com.tencent.ig/lib/libzlib.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libabase.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libBugly.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libcubehawk.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libgcloud.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libGCloudVoice.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libgnustl_shared.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libhelpshiftlistener.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libigshare.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libIMSDK.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/liblbs.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libTDataMaster.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libtersafe.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libtprt.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libUE4.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libzip.so
+tsudo chmod -R 755 /data/data/com.tencent.ig/lib/libzlib.so
 sleep 5
 
 toilet -f mono12 'DONE' | lolcat -a -d 10
