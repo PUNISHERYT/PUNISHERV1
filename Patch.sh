@@ -102,7 +102,7 @@ toilet -f term -F border:gay -t 'PROJECT BY : @Official_ShouT' | lolcat -a -d 1
 
 toilet -f term -F gay '#Launching PUBGM'
 
-sleep 10
+sleep 7
 am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
 
 exit
