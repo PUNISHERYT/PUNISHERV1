@@ -1,4 +1,16 @@
-
+apt update && apt upgrade
+apt install figlet -y
+apt install neofetch -y
+apt install toilet -y
+apt install wget -y
+apt install ruby -y
+apt install tsu -y
+apt install unzip -y
+wget https://github.com/busyloop/lolcat/archive/master.zip
+unzip master.zip
+cd lolcat-master/bin/
+gem install lolcat
+clear
 toilet -f mini -F gay 'PUNISHER'
 
 
